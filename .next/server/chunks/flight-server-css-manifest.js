@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"C:\\Users\\HP AERO\\OneDrive\\Desktop\\belajar-next-js\\src\\app\\page":["C:\\Users\\HP AERO\\OneDrive\\Desktop\\belajar-next-js\\src\\global.css"]},"C:\\Users\\HP AERO\\OneDrive\\Desktop\\belajar-next-js\\src\\app\\page.js":["C:\\Users\\HP AERO\\OneDrive\\Desktop\\belajar-next-js\\src\\global.css"]}
